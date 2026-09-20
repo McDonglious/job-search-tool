@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/JobSearchTool.Api/JobSearchTool.Api.csproj" />
+    <Project Path="src/JobSearchTool.Domain/JobSearchTool.Domain.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/JobSearchTool.Tests/JobSearchTool.Tests.csproj" />
+  </Folder>
+</Solution>
